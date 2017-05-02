@@ -4,7 +4,7 @@ An AppleScript to create pkginfo files for use in Munki printer deployments
 The idea behind this script is to automate the ability to create .pkginfo files for printers currently installed on a computer.  Once these files are created they can be imported into Munki for automating printer installation.
 
 ## Required Files
-This script requires the files in the [PrinterGenerator](https://github.com/nmcspadden/PrinterGenerator) project.  Download those scripts and put them in the same directory as the AppleScript.
+This script requires the files in the [PrinterGenerator](https://github.com/nmcspadden/PrinterGenerator) project by [Nick McSpadden](https://github.com/nmcspadden).  Download those scripts and put them in the same directory as the AppleScript.
 
 ## How to use the script
 
